@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Phiko1998, Phikolomzi Samka and I am here to learn and make mistakes
+- 👋 Hi, I’m Phikolomzi Samka and I am here to learn and make mistakes
 - 👀 I’m interested in Data Science and Machine learning
 - 🌱 I’m currently learning Python libraries relating to machine learning and fundamentals of machine learning
 - 💞️ I’m looking to collaborate on projects to build for my resume
